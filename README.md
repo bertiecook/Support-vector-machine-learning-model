@@ -9,6 +9,6 @@ Then plotted with decision boundary and classification regions.
 
 Then applied to breast cancer dataset. Clipping around extreme values to avoid overflow errors.
 
-Then for comparison imported sklearn and used svm.SVC for comparison and plotted similarly to self built
+Then for comparison imported sklearn and used svm.SVC for comparison and plotted similarly.
 
 
