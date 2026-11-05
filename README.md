@@ -7,7 +7,7 @@ Consturcting a Support-vector-machine-learning model to classify breast cancer b
 Similarly to logistic regression I built the SVM model around 4 sample points to trouble shoot. 
 Then plotted with decision boundary and classification regions.
 
-Then applied to breast cancer dataset. Clipping around extreme values to avoid overflow errors.
+Then applied to the realworld breast cancer dataset containing(30 features 569 samples). Clipping around extreme values to avoid overflow errors.
 
 Then for comparison imported sklearn and used svm.SVC for comparison and plotted similarly.
 
